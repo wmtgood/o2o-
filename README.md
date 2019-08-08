@@ -11,12 +11,9 @@
 ### 前端模版搭建
 - 借助第三方组件SUI速搭建前后台界面
 ### 前台模块
--  会员注册
 -  会员登录
--  首页模板数据填充开发
 -  店铺详情页开发
 -  商品详情页开发
--  会员个人信息展示
 -  搜索功能开发
 ### 商家模块
 -  商户入驻申请
@@ -34,7 +31,7 @@
 -  主后台新开店铺审批列表开发
 ## 技术选型
  - 前端：前端UI库 SUI Mobile／ jQuery／ Chrome UA
--  后端： SSM／Spring Boot（第二阶段采用）／图片开源工具 Thumbnailator/
+-  后端： SSM／使用图片开源工具Thumbnailator
 -  验证码组件Kaptcha／作业调度框架 Quartz/Shell
 -  数据库：MySQL
 -  缓存：Redis
